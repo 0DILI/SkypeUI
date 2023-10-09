@@ -1,0 +1,40 @@
+body {
+  background: #1f1f1f;
+  color: white;
+}
+
+.bg-box1 {
+  background: #286472;
+}
+
+.bg-box2 {
+  background: #595654;
+}
+
+.bg-box3 {
+  background: #202c51;
+}
+
+.bg-box4 {
+  background: #1a224c;
+}
+
+.bg-box5 {
+  background: #697448;
+}
+
+.bg-box6 {
+  background: #5a6476;
+}
+
+.bg-box7 {
+  background: #000000;
+}
+
+.bg-namebg {
+  background: #292828;
+}
+
+.bg-tool {
+  background: #2b2c33;
+}
